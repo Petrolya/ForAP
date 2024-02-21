@@ -16,6 +16,8 @@ elif color1 == 'синий' and color2 == 'желтый':
     print('зеленый')
 elif color1 == 'красный' and color2 == 'желтый':
     print('оранжевый')
+elif color1 == 'синий' and color2 == 'красный':
+    print('фиолетовый')
 else:
     print('Ошибка')
 
